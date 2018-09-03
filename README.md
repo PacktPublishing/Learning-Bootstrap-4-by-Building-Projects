@@ -9,7 +9,7 @@ This is the code repository for [Learning Bootstrap 4 by Building Projects](http
 ## What is this book about?
 Bootstrap, the world’s most popular frontend framework, is an open source toolkit for building web applications with HTML, CSS, and JavaScript. Learning Bootstrap 4 by Building Projects covers the essentials of Bootstrap 4 along with best practices. The book begins by introducing you to the latest features of Bootstrap 4. You will learn different elements and components of Bootstrap, such as the strict grid system, Sass, which replaced Less, flexbox, Font Awesome, and cards. As you make your way through the chapters, you will use a template that will help you to build different kinds of real-world websites, such as a social media website, a company landing page, a media hosting website, and a profile page, with ease.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features:
 * Get familiar with the new features of Bootstrap 4
 * Understand how the new grid system works
 * Learn to use the Sass tool in Bootstrap
